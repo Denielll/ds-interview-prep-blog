@@ -13,7 +13,7 @@ instagram_username:
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   G-M2XH9LJ6R8 # tracking / measuremnet ID
+google_analytics:   G-M2XH9LJ6R8 
 
 # Build settings
 markdown:           kramdown
